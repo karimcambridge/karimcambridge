@@ -160,21 +160,28 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 	</a>
     <a href="#">
-        <img alt="SQLite"
-             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-    <a href="#">
         <img alt="Oracle"
              src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+    <a href="#">
+        <img alt="SQLite"
+             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 </p>
 
 ### ☁ Cloud hosting
 <p>
     <a href="#">
+        <img alt="AWS"
+             src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+    <a href="#">
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="#">
-        <img alt="Azure"
-             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+        <img alt="Vercel"
+             src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="#">
+        <img alt="Netlify"
+             src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
     <a href="#">
         <img alt="Digital Ocean"
@@ -239,7 +246,3 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <img title="🔥 Streak stats" alt="karimcambridge's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karimcambridge&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-
-## 💻 Last month's activity
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href=""><img alt="karimcambridge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karimcambridge&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
