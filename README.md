@@ -147,7 +147,7 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 	</a>
     <a href="#">
-        <img alt="Material-UI"
+        <img alt="RabbitMQ"
              src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 	</a>
 </p>
