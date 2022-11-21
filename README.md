@@ -169,9 +169,12 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="SQLite"
              src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Redis"
+             src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 </p>
 
-### ☁ Cloud hosting
+### ☁ Cloud
 <p>
     <a href="#">
         <img alt="AWS"
@@ -193,6 +196,9 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="Google Cloud"
              src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#">
+        <img alt="GitHub Actions"
+             src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
@@ -215,6 +221,9 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="Mocha" 
              src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"></a>
+    <a href="#">
+        <img alt="JEST" 
+             src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a>
     <a href="#">
         <img alt="ESLINT" 
              src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
