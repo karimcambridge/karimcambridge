@@ -56,16 +56,8 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	</a>
     <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-	</a>
-    <a href="#">
-        <img alt="C++"
-             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-	</a>
-    <a href="#">
-        <img alt="Java"
-             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <img alt="PHP"
+             src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 	</a>
     <a href="#">
         <img alt="SQL"
@@ -76,8 +68,16 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 	</a>
     <a href="#">
-        <img alt="PHP"
-             src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img alt="Java"
+             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+	</a>
+    <a href="#">
+        <img alt="C"
+             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+	</a>
+    <a href="#">
+        <img alt="C++"
+             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 	</a>
 </p>
 
@@ -145,6 +145,10 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="Material-UI"
              src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+	</a>
+    <a href="#">
+        <img alt="Material-UI"
+             src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 	</a>
 </p>
 
@@ -228,7 +232,7 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 </p>
 
-### 💻 My favorite operating systems
+### 💻 Operating systems
 <p>
     <a href="#"><img alt="Debian"
                      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
