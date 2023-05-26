@@ -198,7 +198,7 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 		<img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 	</a>
 	<a href="#">
-		<img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
+		<img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 	</a>
 </p>
 
@@ -232,8 +232,11 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 ### 💻 Software and tools
 <p>
     <a href="#">
-        <img alt="GIT"
+        <img alt="git"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#">
+        <img alt="Docker"
+             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="#">
         <img alt="Firebase"
              src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
@@ -241,20 +244,11 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
     <a href="#">
-        <img alt="NGINX" 
+        <img alt="nginx" 
              src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
     <a href="#">
-        <img alt="Mocha" 
-             src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"></a>
-    <a href="#">
-        <img alt="JEST" 
-             src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a>
-    <a href="#">
-        <img alt="ESLINT" 
+        <img alt="eslint" 
              src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
-    <a href="#">
-        <img alt="Docker"
-             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="#">
         <img alt="Jupyter"
              src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
