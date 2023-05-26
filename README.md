@@ -204,12 +204,12 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 
 ### ☁ Cloud
 <p>
-    <a href="#">
-        <img alt="AWS"
-             src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Heroku"
-             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+	<a href="#">
+		<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+	</a>
+	<a href="#">
+		<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+	</a>
     <a href="#">
         <img alt="Vercel"
              src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -219,11 +219,11 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
              src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
     <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    <a href="#">
         <img alt="Digital Ocean"
              src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
-    <a href="#">
-        <img alt="Google Cloud"
-             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
     <a href="#">
         <img alt="GitHub Actions"
              src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
@@ -268,12 +268,14 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 
 ### 💻 Operating systems
 <p>
-    <a href="#"><img alt="Debian"
-                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu"
                      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Debian"
+                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Mac OS"
+                     src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ## 🔥 Streak stats
