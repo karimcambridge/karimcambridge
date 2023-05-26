@@ -41,6 +41,9 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 ### 👨‍💻 Programming Languages
 
 <p>
+	<a href="#">
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+	</a>
     <a href="#">
         <img alt="JavaScript"
              src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -52,6 +55,10 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="PHP"
              src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+	</a>
+    <a href="#">
+        <img alt="Go"
+             src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 	</a>
     <a href="#">
         <img alt="SQL"
@@ -80,9 +87,17 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 
 <p>
     <a href="#">
+        <img alt="NestJS"
+             src="https://img.shields.io/badge/nest.js-E0234D?style=for-the-badge&logoColor=E0234D">
+    </a>
+    <a href="#">
         <img alt="GraphQL"
              src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 	</a>
+    <a href="#">
+        <img alt="Next.js"
+             src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    </a>
     <a href="#">
         <img alt="React"
              src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -166,6 +181,25 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="Redis"
              src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
+    <a href="#">
+        <img alt="prisma"
+             src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+	</a>
+    <a href="#">
+        <img alt="Sequelize"
+             src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+	</a>
+</p>
+
+### 🗄️ Tests
+
+<p>
+	<a href="#">
+		<img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+	</a>
+	<a href="#">
+		<img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
+	</a>
 </p>
 
 ### ☁ Cloud
@@ -200,9 +234,6 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#">
-        <img alt="NextJS"
-             src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
     <a href="#">
         <img alt="Firebase"
              src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
