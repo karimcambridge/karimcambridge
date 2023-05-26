@@ -12,16 +12,16 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-    <a href="https://github.com/karimcambridge">
+    <a href="https://github.com/karimcambridge" target="_blank">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/karimcambridge/">
+    <a href="https://www.linkedin.com/in/karimcambridge/" target="_blank">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.twitter.com/karimcambridge">
+    <a href="https://www.twitter.com/karimcambridge" target="_blank">
         <img alt="Twitter"
              src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://steamcommunity.com/id/Kar2k/home/">
+    <a href="https://steamcommunity.com/id/Kar2k/home/" target="_blank">
         <img alt="Steam"
              src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
@@ -33,12 +33,6 @@ I have no main focus but JavaScript is my current ❤️, some say full stack do
                     src="https://github-readme-stats.vercel.app/api?username=karimcambridge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=karimcambridge&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="karimcambridge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimcambridge&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-</p>
-
-<p>
-  <a align="center" href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=karimcambridge&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
 </p>
 
 
